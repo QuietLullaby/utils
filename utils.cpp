@@ -35,6 +35,7 @@ int main(int argc,char ** argv)
       }
       else {
         cout << "You are not using a good parameter, run this with -h argument to get informations on all possibilities\n";
+      }
     }
   }
   else {
